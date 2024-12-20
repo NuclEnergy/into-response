@@ -14,7 +14,7 @@ Add `into_response` to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-into_response = "0.1"
+into_response = "0.2"
 ```
 
 ### Example
