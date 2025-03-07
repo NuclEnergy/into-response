@@ -20,3 +20,7 @@ proc-macro2 = "1"
 quote = "1"
 serde = { version = "1", features = ["derive"] }
 syn = "2"
+
+
+[dev-dependencies]
+axum = { version = "0.8", features = ["json"] }
