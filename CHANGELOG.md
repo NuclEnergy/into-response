@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+# 0.3.1 (March 21, 2025)
+
+- Update the license with the correct information
+- Update the .gitattributes file
+
 # 0.3.0 (March 7, 2025)
 
 - Add custom status code support for the `IntoResponse` derive macro
